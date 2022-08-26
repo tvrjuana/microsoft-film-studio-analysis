@@ -50,7 +50,7 @@ The studio and producer recommendations were filtered by experience in terms of 
 Here the team explored what types of films are currently doing the best at the box office by using the worldwide gross revenue metric and separating the movies into their respective genres. Adventure, action, comedy led the genres in world wide gross revenue, however this initial analysis does not paint the whole picture because the team need to look at other factors such as the production cost metric amongst genres to make the best business decision. 
  
 ### Production Budget by Genre
- ![graph2](./images/production_budget_mean.png)
+ ![graph2](./images/production_budget_mean.PNG)
 
 This visual is conveying that the highest grossing genre movies such as adventure, action, comedy often require a higher production budget. The team wants to recommend the genres that have the best proportion of low production budget with a high gross revenue to maximize the return on investment. 
 
